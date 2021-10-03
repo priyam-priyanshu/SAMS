@@ -7,3 +7,4 @@ Fill the required details.
 Browse the Excel sheet.
 Enter the login credentials.
 Hit the generate button.
+![Screenshot (199)](https://user-images.githubusercontent.com/76548882/135765669-ff712e37-ea25-4797-95c3-57fc208ffbeb.png)
